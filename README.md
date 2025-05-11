@@ -12,12 +12,18 @@ The goal was to make the code clean, readable, and easy to understand for any Un
 ## 📁 Project Structure
 
 Assets/
+
 ├── _Project/
+
 │ ├── 0-Main/ ← Main UI and menu navigation
+
 │ ├── 1-AceOfShadows/ ← Card stacking and smooth movement
+
 │ ├── 2-MagicWords/ ← Emoji-based dialogue system
+
 │ ├── 3-PhoenixFlame/ ← Particle effect with color cycling
-│ └── Shared/ ← Common assets (UI components, fonts, materials)
+
+│ └── Shared (Core)/ ← Common assets (UI components, fonts, materials)
 
 
 ---
